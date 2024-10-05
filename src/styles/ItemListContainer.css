@@ -1,0 +1,5 @@
+.item-list-container {
+    background-color: #f0f0f0; /* Gris claro */
+    padding: 20px; /* Espaciado interno */
+    min-height: 100vh; /* Asegura que ocupe al menos toda la altura de la pantalla */
+}

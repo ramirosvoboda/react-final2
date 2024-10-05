@@ -1,0 +1,41 @@
+/* src/components/Home.css */
+
+.home-container {
+  background-image: url('../assets/back.jpg'); /* Asegúrate de que la ruta sea correcta */
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  flex-direction: column;
+}
+
+.home-container h1 {
+  font-size: 3rem;
+  margin-bottom: 10px;
+}
+
+.home-container p {
+  font-size: 1.5rem;
+  margin-bottom: 20px; /* Espacio entre el párrafo y el botón */
+}
+
+.view-products-button {
+  padding: 10px 20px;
+  font-size: 1rem;
+  color: white;
+  background-color: #007BFF; /* Color del botón */
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease; /* Efecto al pasar el mouse */
+}
+
+.view-products-button:hover {
+  background-color: #0056b3; /* Color del botón al pasar el mouse */
+}

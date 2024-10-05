@@ -1,0 +1,258 @@
+[
+  {
+    "id": 1,
+    "name": "Silla de Madera",
+    "price": 50,
+    "category": "madera",
+    "image": "../assets/signodepregunta.jpg",
+    "description": "Silla de madera resistente y elegante."
+  },
+  {
+    "id": 2,
+    "name": "Mesa de Metal",
+    "price": 100,
+    "category": "metal",
+    "image": "path/to/image2.jpg",
+    "description": "Mesa de metal duradera."
+  },
+  {
+    "id": 3,
+    "name": "Cojín de Tela",
+    "price": 25,
+    "category": "tela",
+    "image": "path/to/image3.jpg",
+    "description": "Cojín suave y cómodo."
+  },
+  {
+    "id": 4,
+    "name": "Estante de Madera",
+    "price": 80,
+    "category": "madera",
+    "image": "path/to/image4.jpg",
+    "description": "Estante de madera para almacenamiento."
+  },
+  {
+    "id": 5,
+    "name": "Lámpara de Metal",
+    "price": 45,
+    "category": "metal",
+    "image": "path/to/image5.jpg",
+    "description": "Lámpara de mesa moderna de metal."
+  },
+  {
+    "id": 6,
+    "name": "Alfombra de Tela",
+    "price": 60,
+    "category": "tela",
+    "image": "path/to/image6.jpg",
+    "description": "Alfombra suave y acogedora."
+  },
+  {
+    "id": 7,
+    "name": "Silla Plegable de Madera",
+    "price": 30,
+    "category": "madera",
+    "image": "path/to/image7.jpg",
+    "description": "Silla plegable de madera para exterior."
+  },
+  {
+    "id": 8,
+    "name": "Mesa de Centro de Metal",
+    "price": 150,
+    "category": "metal",
+    "image": "path/to/image8.jpg",
+    "description": "Mesa de centro elegante de metal."
+  },
+  {
+    "id": 9,
+    "name": "Cortina de Tela",
+    "price": 35,
+    "category": "tela",
+    "image": "path/to/image9.jpg",
+    "description": "Cortina de tela para ventana."
+  },
+  {
+    "id": 10,
+    "name": "Taburete de Madera",
+    "price": 40,
+    "category": "madera",
+    "image": "path/to/image10.jpg",
+    "description": "Taburete de madera versátil."
+  },
+  {
+    "id": 11,
+    "name": "Sofá de Metal",
+    "price": 300,
+    "category": "metal",
+    "image": "path/to/image11.jpg",
+    "description": "Sofá moderno de metal."
+  },
+  {
+    "id": 12,
+    "name": "Manta de Tela",
+    "price": 20,
+    "category": "tela",
+    "image": "path/to/image12.jpg",
+    "description": "Manta suave para el frío."
+  },
+  {
+    "id": 13,
+    "name": "Mesa de Noche de Madera",
+    "price": 75,
+    "category": "madera",
+    "image": "path/to/image13.jpg",
+    "description": "Mesa de noche con diseño clásico."
+  },
+  {
+    "id": 14,
+    "name": "Silla de Metal",
+    "price": 55,
+    "category": "metal",
+    "image": "path/to/image14.jpg",
+    "description": "Silla de metal resistente."
+  },
+  {
+    "id": 15,
+    "name": "Funda de Sofá de Tela",
+    "price": 85,
+    "category": "tela",
+    "image": "path/to/image15.jpg",
+    "description": "Funda de sofá para protegerlo."
+  },
+  {
+    "id": 16,
+    "name": "Mesita de Café de Madera",
+    "price": 95,
+    "category": "madera",
+    "image": "path/to/image16.jpg",
+    "description": "Mesita de café de estilo rústico."
+  },
+  {
+    "id": 17,
+    "name": "Luz LED de Metal",
+    "price": 40,
+    "category": "metal",
+    "image": "path/to/image17.jpg",
+    "description": "Luz LED moderna para decoración."
+  },
+  {
+    "id": 18,
+    "name": "Sábanas de Tela",
+    "price": 30,
+    "category": "tela",
+    "image": "path/to/image18.jpg",
+    "description": "Sábanas suaves y cómodas."
+  },
+  {
+    "id": 19,
+    "name": "Banco de Madera",
+    "price": 120,
+    "category": "madera",
+    "image": "path/to/image19.jpg",
+    "description": "Banco de madera ideal para exteriores."
+  },
+  {
+    "id": 20,
+    "name": "Estantería de Metal",
+    "price": 150,
+    "category": "metal",
+    "image": "path/to/image20.jpg",
+    "description": "Estantería de metal para almacenamiento."
+  },
+  {
+    "id": 21,
+    "name": "Cubre Sofá de Tela",
+    "price": 70,
+    "category": "tela",
+    "image": "path/to/image21.jpg",
+    "description": "Cubre sofá para protegerlo de manchas."
+  },
+  {
+    "id": 22,
+    "name": "Silla de Jardín de Madera",
+    "price": 60,
+    "category": "madera",
+    "image": "path/to/image22.jpg",
+    "description": "Silla de jardín de madera resistente."
+  },
+  {
+    "id": 23,
+    "name": "Mesa de Metal para Patio",
+    "price": 200,
+    "category": "metal",
+    "image": "path/to/image23.jpg",
+    "description": "Mesa de metal para patio exterior."
+  },
+  {
+    "id": 24,
+    "name": "Cojín Decorativo de Tela",
+    "price": 15,
+    "category": "tela",
+    "image": "path/to/image24.jpg",
+    "description": "Cojín decorativo para sofá."
+  },
+  {
+    "id": 25,
+    "name": "Silla de Oficina de Madera",
+    "price": 150,
+    "category": "madera",
+    "image": "path/to/image25.jpg",
+    "description": "Silla de oficina cómoda y elegante."
+  },
+  {
+    "id": 26,
+    "name": "Sofá de Tela",
+    "price": 400,
+    "category": "tela",
+    "image": "path/to/image26.jpg",
+    "description": "Sofá moderno y cómodo."
+  },
+  {
+    "id": 27,
+    "name": "Mueble de Metal",
+    "price": 250,
+    "category": "metal",
+    "image": "path/to/image27.jpg",
+    "description": "Mueble de metal multifuncional."
+  },
+  {
+    "id": 28,
+    "name": "Estilo Rústico de Tela",
+    "price": 45,
+    "category": "tela",
+    "image": "path/to/image28.jpg",
+    "description": "Estilo rústico y acogedor."
+  },
+  {
+    "id": 29,
+    "name": "Banco de Jardín de Madera",
+    "price": 220,
+    "category": "madera",
+    "image": "path/to/image29.jpg",
+    "description": "Banco de jardín para relajarse."
+  },
+  {
+    "id": 30,
+    "name": "Mesa de Metal Vintage",
+    "price": 125,
+    "category": "metal",
+    "image": "path/to/image30.jpg",
+    "description": "Mesa de metal vintage para decoración."
+  },
+  {
+    "id": 31,
+    "name": "Cama de Tela",
+    "price": 350,
+    "category": "tela",
+    "image": "path/to/image31.jpg",
+    "description": "Cama de tela cómoda y elegante."
+  },
+  {
+    "id": 32,
+    "name": "Mueble de Almacenamiento de Metal",
+    "price": 180,
+    "category": "metal",
+    "image": "path/to/image36.jpg",
+    "description": "Mueble de almacenamiento de metal duradero."
+  }
+]
